@@ -1,0 +1,41 @@
+{
+  "name": "mersenne-twister-serializable",
+  "version": "1.0.0",
+  "description": "A serializable Mersenne Twister",
+  "main": "mersenne.js",
+  "files": [
+    "README.md",
+    "LICENSE",
+    "mersenne.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Jimbly/mersenne-twister-serializable"
+  },
+  "keywords": [
+    "mersenne",
+    "twister",
+    "mersenne twister",
+    "mersennetwister",
+    "fast",
+    "performance",
+    "performant",
+    "random",
+    "number",
+    "generator",
+    "seed",
+    "seedable",
+    "seeded",
+    "save",
+    "restore",
+    "saveable",
+    "restorable",
+    "serializable",
+    "deserializable",
+    "rng",
+    "prng"
+  ],
+  "author": "Jimb Esser (https://github.com/Jimbly)",
+  "license": "MIT",
+  "devDependencies": {}
+}
